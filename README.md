@@ -51,10 +51,6 @@
   
 
 
-![dotenv](https://github.com/kyu-baek/kyu-baek/assets/69143394/c550eb9e-59f9-430f-9f5b-42ef88413ed8)
-
-   
-
 🔗 Links
 
 🎊 Projects
