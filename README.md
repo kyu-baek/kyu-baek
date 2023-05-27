@@ -2,10 +2,10 @@
 
 💡 Interest
    
-<a href="file:///Users/kyu/Downloads/dotenv.svg" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://github.com/kyu-baek/kyu-baek/assets/69143394/c57c107a-7b1c-465d-9af9-01ef6fb9e97f" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
   
 
- 
+
 
    
 
